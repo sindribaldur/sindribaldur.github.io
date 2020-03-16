@@ -1,3 +1,7 @@
+---
+title: Khan Academy æfingar
+---
+
 ## Janúar - Mars 2020
 
 -   [Röð í
