@@ -15,9 +15,8 @@ title: Khan Academy æfingar
 - [Veldi áfram](https://www.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-exponents/e/exponents)
 - [Neikvæð veldi](https://www.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-negative-exponents/e/exponents_2)
 - [Stærsti sameiginlegi þáttur](https://www.khanacademy.org/math/pre-algebra/pre-algebra-factors-multiples/pre-algebra-greatest-common-divisor/e/greatest_common_divisor)
-- [Blandnar tölur (mixed number) og almennt brot (fractions) - breyta
-    á
-    milli](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-mixed-number/e/converting_mixed_numbers_and_improper_fractions)
+- [Almenn brot á talnalínunni &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-fractions/pre-algebra-visualizing-equiv-frac/e/equivalent-fractions--number-lines-)
+- [Blandnar tölur (mixed number) og almennt brot (fractions) - breyta á milli](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-mixed-number/e/converting_mixed_numbers_and_improper_fractions)
 - [Bera saman blendnar tölur og almennt brot](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-mixed-number/e/comparing_improper_fractions_and_mixed_numbers)
 - [Finna samnefnara](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-common-denominators/e/common-denominators)
 - [Margföldun brota](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-multiply-fractions/e/multiplying_fractions_0.5)
