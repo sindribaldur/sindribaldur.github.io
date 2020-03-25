@@ -15,7 +15,18 @@ title: Khan Academy æfingar
 - [Veldi áfram](https://www.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-exponents/e/exponents)
 - [Neikvæð veldi](https://www.khanacademy.org/math/pre-algebra/pre-algebra-exponents-radicals/pre-algebra-negative-exponents/e/exponents_2)
 - [Stærsti sameiginlegi þáttur](https://www.khanacademy.org/math/pre-algebra/pre-algebra-factors-multiples/pre-algebra-greatest-common-divisor/e/greatest_common_divisor)
+
+### Grunnur að almennum brotum
+- [Skipta formum í jafna hluta &#x1F538;](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-fractions-intro/e/that-s-not-fair-)
+- [Almenn brot og form &#x1F538;](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-fractions-intro/e/recognizing_fractions_0.5)
+- [Almenn brot, form og talnalínan &#x1F538;](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-fractions-on-the-number-line/e/relate-number-lines-to-fraction-bars)
+- [Almenn brot og talnalínan &#x1F538;](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-fractions-on-the-number-line/e/fractions_on_the_number_line_1)
+- [Almenn brot og talnalínan, áfram &#x1F538;](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-fractions-on-the-number-line/e/fractions_on_the_number_line_2)
+- [Stærri almenn brot og talnalína &#x1F538;](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-fractions-on-the-number-line/e/fractions-greater-than-1-on-the-number-line)
+- [Lenging og stytting með formum &#x1F538;](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-visualizing-equiv-frac/e/visualizing-equivalent-fractions)
 - [Almenn brot á talnalínunni &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-fractions/pre-algebra-visualizing-equiv-frac/e/equivalent-fractions--number-lines-)
+
+### Aðgerðir með almenn brot
 - [Blandnar tölur (mixed number) og almennt brot (fractions) - breyta á milli](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-mixed-number/e/converting_mixed_numbers_and_improper_fractions)
 - [Bera saman blendnar tölur og almennt brot](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-mixed-number/e/comparing_improper_fractions_and_mixed_numbers)
 - [Finna samnefnara](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-common-denominators/e/common-denominators)
