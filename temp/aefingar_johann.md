@@ -36,9 +36,17 @@ title: Khan Academy æfingar
 - [Leggja saman brot með ólíkum nefnurum](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-add-sub-fractions/e/adding_fractions)
 - [Mismunur brota með ólíkum nefnurum](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-add-sub-fractions/e/subtracting_fractions)
 - [Summa og mismunur blandinna talna](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-add-sub-mix-num-w-unlike-den/e/adding_subtracting_mixed_numbers_1)
-- [Að deila með brotum &#x1F538;](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-dividing-fractions/e/dividing_fractions_1.5)
-- [Að deila með blöndnum tölum &#x1F538;](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-dividing-fractions/e/divide-mixed-numbers)
+- [Að deila með brotum ](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-dividing-fractions/e/dividing_fractions_1.5)
+- [Að deila með blöndnum tölum](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-dividing-fractions/e/divide-mixed-numbers)
 
 ## Apríl 2020
 
-### ???
+### Formúlur (breytur/tákn) &#x1F538;
+
+- [Formúlur með einni breytu](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-substitution/e/evaluating_expressions_1)
+- [Formúlur með mörgum breytum](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-substitution/e/evaluating_expressions_2)
+- [Formúlur með brotum og tugabrotum](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-substitution/e/evaluating-expressions-in-two-variables-2)
+- [Áhrif sem breytur hafa á heildina](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-expression-value-intuitionss/e/expression-value-intuition)
+
+### Jöfnur
+- [Jöfnur sem má leysa í einu skrefi](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-one-step-add-sub-equationss/e/one_step_equation)
