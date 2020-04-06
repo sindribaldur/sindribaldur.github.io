@@ -49,4 +49,9 @@ title: Khan Academy æfingar
 - [Áhrif sem breytur hafa á heildina](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-expression-value-intuitionss/e/expression-value-intuition)
 
 ### Jöfnur
-- [Jöfnur sem má leysa í einu skrefi](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-one-step-add-sub-equationss/e/one_step_equation)
+- [Jöfnur sem má leysa í einu skrefi plús/mínus](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-one-step-add-sub-equationss/e/one_step_equations)
+- [Jöfnur sem má leysa í einu skrefi plús/mínus brot/tugabrot](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-one-step-add-sub-equationss/e/one-step-add-sub-equations-2)
+- [Jöfnur sem má leysa í einu skrefi margföldun/deiling](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-one-step-mult-div-equations/e/linear_equations_1)
+- [Jöfnur myndrænt](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-solving-equations/e/visualize-equations)
+
+### Ójöfnur
