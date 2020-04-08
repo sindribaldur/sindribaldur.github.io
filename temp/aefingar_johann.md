@@ -41,7 +41,7 @@ title: Khan Academy æfingar
 
 ## Apríl 2020
 
-### Formúlur (breytur/tákn) &#x1F538;
+### Formúlur (breytur/tákn)
 
 - [Formúlur með einni breytu](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-substitution/e/evaluating_expressions_1)
 - [Formúlur með mörgum breytum](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-substitution/e/evaluating_expressions_2)
@@ -49,9 +49,15 @@ title: Khan Academy æfingar
 - [Áhrif sem breytur hafa á heildina](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-expression-value-intuitionss/e/expression-value-intuition)
 
 ### Jöfnur
+
 - [Jöfnur sem má leysa í einu skrefi plús/mínus](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-one-step-add-sub-equationss/e/one_step_equations)
 - [Jöfnur sem má leysa í einu skrefi plús/mínus brot/tugabrot](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-one-step-add-sub-equationss/e/one-step-add-sub-equations-2)
 - [Jöfnur sem má leysa í einu skrefi margföldun/deiling](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-one-step-mult-div-equations/e/linear_equations_1)
 - [Jöfnur myndrænt](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-solving-equations/e/visualize-equations)
+- [Erfiðari jöfnur sem má leysa í einu skref &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-one-step-mult-div-equations/e/one-step-mult-div-equations-2)
+- [Þýða orð í jöfnur &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-equation-word-problems/e/translate-one-step-equations-and-solve--basic-)
+- [Leysa jöfnur í tveimur skrefum &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-2-step-equations-intro/e/linear_equations_2)
+- [Prófa lausnir við jöfnum &#x1F538;](https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-equations-and-inequalities/cc-6th-intro-equations/e/testing-solutions-of-equations-inequalities)
 
 ### Ójöfnur
+- [Ójöfnur sem má leysa í einu skrefi](https://www.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-one-step-inequalities/e/one_step_inequalities)
