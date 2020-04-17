@@ -54,10 +54,19 @@ title: Khan Academy æfingar
 - [Jöfnur sem má leysa í einu skrefi plús/mínus brot/tugabrot](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-one-step-add-sub-equationss/e/one-step-add-sub-equations-2)
 - [Jöfnur sem má leysa í einu skrefi margföldun/deiling](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-one-step-mult-div-equations/e/linear_equations_1)
 - [Jöfnur myndrænt](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-solving-equations/e/visualize-equations)
-- [Erfiðari jöfnur sem má leysa í einu skref &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-one-step-mult-div-equations/e/one-step-mult-div-equations-2)
-- [Þýða orð í jöfnur &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-equation-word-problems/e/translate-one-step-equations-and-solve--basic-)
-- [Leysa jöfnur í tveimur skrefum &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-2-step-equations-intro/e/linear_equations_2)
-- [Prófa lausnir við jöfnum &#x1F538;](https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-equations-and-inequalities/cc-6th-intro-equations/e/testing-solutions-of-equations-inequalities)
+- [Erfiðari jöfnur sem má leysa í einu skref](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-one-step-mult-div-equations/e/one-step-mult-div-equations-2)
+- [Þýða orð í jöfnur](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-equation-word-problems/e/translate-one-step-equations-and-solve--basic-)
+- [Leysa jöfnur í tveimur skrefum](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-2-step-equations-intro/e/linear_equations_2)
+- [Prófa lausnir við jöfnum](https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-equations-and-inequalities/cc-6th-intro-equations/e/testing-solutions-of-equations-inequalities)
 
 ### Ójöfnur
 - [Ójöfnur sem má leysa í einu skrefi](https://www.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-one-step-inequalities/e/one_step_inequalities)
+- [Ójöfnur í tveimur skrefum &#x1F538;](https://www.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-two-step-inequalities/e/solving-2-step-inequalities)
+- [Ójöfnur í fleiri skrefum &#x1F538;](https://www.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-multi-step-inequalities/e/linear_inequalities)
+
+## Maí 2020
+
+### Jöfnuhneppi
+
+- [Prófa lausnir við jöfnuhneppum &#x1F538;](https://www.khanacademy.org/math/algebra-home/alg-system-of-equations/alg-introduction-to-systems-of-linear-equations/e/verifying-solutions-to-systems-of-equations)
+- [Einföld jöfnuhneppi &#x1F538;](https://www.khanacademy.org/math/algebra-home/alg-system-of-equations/alg-equivalent-systems-of-equations/e/systems_of_equations_with_elimination_0.5)
