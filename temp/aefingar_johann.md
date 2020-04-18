@@ -25,6 +25,9 @@ title: Khan Academy æfingar
 - [Stærri almenn brot og talnalína](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-fractions-on-the-number-line/e/fractions-greater-than-1-on-the-number-line)
 - [Lenging og stytting með formum](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-visualizing-equiv-frac/e/visualizing-equivalent-fractions)
 - [Almenn brot á talnalínunni](https://www.khanacademy.org/math/pre-algebra/pre-algebra-fractions/pre-algebra-visualizing-equiv-frac/e/equivalent-fractions--number-lines-)
+- [Almenn brot og tugabrot 1 &#x1F538;](https://www.khanacademy.org/math/arithmetic/arith-decimals/arith-review-decimals-to-fractions/e/converting_decimals_to_fractions_1)
+- [Almenn brot og tugabrot 2 &#x1F538;](https://www.khanacademy.org/math/arithmetic/arith-decimals/arith-review-decimals-to-fractions/e/converting_decimals_to_fractions_2)
+- [Raða almennum brotum og tugabrotum &#x1F538;](https://www.khanacademy.org/math/arithmetic/arith-decimals/arith-decimals/arith-review-comparing-decimals/e/order-decimals-and-fractions)
 
 ### Aðgerðir með almenn brot
 - [Blandnar tölur (mixed number) og almennt brot (fractions) - breyta á milli](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-mixed-number/e/converting_mixed_numbers_and_improper_fractions)
@@ -36,7 +39,7 @@ title: Khan Academy æfingar
 - [Leggja saman brot með ólíkum nefnurum](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-add-sub-fractions/e/adding_fractions)
 - [Mismunur brota með ólíkum nefnurum](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-add-sub-fractions/e/subtracting_fractions)
 - [Summa og mismunur blandinna talna](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-add-sub-mix-num-w-unlike-den/e/adding_subtracting_mixed_numbers_1)
-- [Að deila með brotum ](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-dividing-fractions/e/dividing_fractions_1.5)
+- [Að deila með brotum](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-dividing-fractions/e/dividing_fractions_1.5)
 - [Að deila með blöndnum tölum](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-dividing-fractions/e/divide-mixed-numbers)
 
 ## Apríl 2020
