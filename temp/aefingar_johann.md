@@ -52,7 +52,9 @@ title: Khan Academy æfingar
 - [Áhrif sem breytur hafa á heildina](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-expression-value-intuitionss/e/expression-value-intuition)
 
 ### Jöfnur
-
+- [Stæður með svigum (upprifjun) &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-constructing-numeric-expressions/e/expressions-with-parentheses)
+- [Færa orð í jöfnur og leysa &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-equation-word-problems/e/model-with-one-step-equations-and-solve)
+- [Tveggja-breytu jöfnur &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-dependent-independent/e/complete-a-table-from-a-two-variable-equation)
 - [Jöfnur sem má leysa í einu skrefi plús/mínus](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-one-step-add-sub-equationss/e/one_step_equations)
 - [Jöfnur sem má leysa í einu skrefi plús/mínus brot/tugabrot](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-one-step-add-sub-equationss/e/one-step-add-sub-equations-2)
 - [Jöfnur sem má leysa í einu skrefi margföldun/deiling](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-one-step-mult-div-equations/e/linear_equations_1)
@@ -63,6 +65,8 @@ title: Khan Academy æfingar
 - [Prófa lausnir við jöfnum](https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-equations-and-inequalities/cc-6th-intro-equations/e/testing-solutions-of-equations-inequalities)
 
 ### Ójöfnur
+- [Lesa ójöfnur af talnalínunni &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-greater-than-less-than/e/inequality-from-graph)
+- [Teikna ójöfnur á talnalínuna &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-greater-than-less-than/e/inequalities_on_a_number_line)
 - [Ójöfnur sem má leysa í einu skrefi](https://www.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-one-step-inequalities/e/one_step_inequalities)
 - [Ójöfnur í tveimur skrefum &#x1F538;](https://www.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-two-step-inequalities/e/solving-2-step-inequalities)
 - [Ójöfnur í fleiri skrefum &#x1F538;](https://www.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-multi-step-inequalities/e/linear_inequalities)
@@ -73,3 +77,9 @@ title: Khan Academy æfingar
 
 - [Prófa lausnir við jöfnuhneppum &#x1F538;](https://www.khanacademy.org/math/algebra-home/alg-system-of-equations/alg-introduction-to-systems-of-linear-equations/e/verifying-solutions-to-systems-of-equations)
 - [Einföld jöfnuhneppi &#x1F538;](https://www.khanacademy.org/math/algebra-home/alg-system-of-equations/alg-equivalent-systems-of-equations/e/systems_of_equations_with_elimination_0.5)
+
+
+
+
+
+
