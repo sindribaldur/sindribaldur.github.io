@@ -72,7 +72,6 @@ title: Khan Academy æfingar
 - [Ójöfnur í fleiri skrefum](https://www.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-multi-step-inequalities/e/linear_inequalities)
 
 ### Prósentur upprifjun
-
 -[Prósentur á mörgum formum &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-problems/e/equivalent-representations-of-percent-problems)
 -[Breyta úr tölum yfir á prósentur &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-problems/e/finding_percents)
 
