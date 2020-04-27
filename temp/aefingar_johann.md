@@ -25,9 +25,9 @@ title: Khan Academy æfingar
 - [Stærri almenn brot og talnalína](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-fractions-on-the-number-line/e/fractions-greater-than-1-on-the-number-line)
 - [Lenging og stytting með formum](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-visualizing-equiv-frac/e/visualizing-equivalent-fractions)
 - [Almenn brot á talnalínunni](https://www.khanacademy.org/math/pre-algebra/pre-algebra-fractions/pre-algebra-visualizing-equiv-frac/e/equivalent-fractions--number-lines-)
-- [Almenn brot og tugabrot 1 &#x1F538;](https://www.khanacademy.org/math/arithmetic/arith-decimals/arith-review-decimals-to-fractions/e/converting_decimals_to_fractions_1)
-- [Almenn brot og tugabrot 2 &#x1F538;](https://www.khanacademy.org/math/arithmetic/arith-decimals/arith-review-decimals-to-fractions/e/converting_decimals_to_fractions_2)
-- [Raða almennum brotum og tugabrotum &#x1F538;](https://www.khanacademy.org/math/arithmetic/arith-decimals/arith-decimals/arith-review-comparing-decimals/e/order-decimals-and-fractions)
+- [Almenn brot og tugabrot 1](https://www.khanacademy.org/math/arithmetic/arith-decimals/arith-review-decimals-to-fractions/e/converting_decimals_to_fractions_1)
+- [Almenn brot og tugabrot 2](https://www.khanacademy.org/math/arithmetic/arith-decimals/arith-review-decimals-to-fractions/e/converting_decimals_to_fractions_2)
+- [Raða almennum brotum og tugabrotum](https://www.khanacademy.org/math/arithmetic/arith-decimals/arith-decimals/arith-review-comparing-decimals/e/order-decimals-and-fractions)
 
 ### Aðgerðir með almenn brot
 - [Blandnar tölur (mixed number) og almennt brot (fractions) - breyta á milli](https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/arith-review-mixed-number/e/converting_mixed_numbers_and_improper_fractions)
@@ -52,9 +52,9 @@ title: Khan Academy æfingar
 - [Áhrif sem breytur hafa á heildina](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-expression-value-intuitionss/e/expression-value-intuition)
 
 ### Jöfnur
-- [Stæður með svigum (upprifjun) &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-constructing-numeric-expressions/e/expressions-with-parentheses)
-- [Færa orð í jöfnur og leysa &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-equation-word-problems/e/model-with-one-step-equations-and-solve)
-- [Tveggja-breytu jöfnur &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-dependent-independent/e/complete-a-table-from-a-two-variable-equation)
+- [Stæður með svigum (upprifjun)](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-constructing-numeric-expressions/e/expressions-with-parentheses)
+- [Færa orð í jöfnur og leysa](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-equation-word-problems/e/model-with-one-step-equations-and-solve)
+- [Tveggja-breytu jöfnur](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-dependent-independent/e/complete-a-table-from-a-two-variable-equation)
 - [Jöfnur sem má leysa í einu skrefi plús/mínus](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-one-step-add-sub-equationss/e/one_step_equations)
 - [Jöfnur sem má leysa í einu skrefi plús/mínus brot/tugabrot](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-one-step-add-sub-equationss/e/one-step-add-sub-equations-2)
 - [Jöfnur sem má leysa í einu skrefi margföldun/deiling](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-one-step-mult-div-equations/e/linear_equations_1)
@@ -65,18 +65,23 @@ title: Khan Academy æfingar
 - [Prófa lausnir við jöfnum](https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-equations-and-inequalities/cc-6th-intro-equations/e/testing-solutions-of-equations-inequalities)
 
 ### Ójöfnur
-- [Lesa ójöfnur af talnalínunni &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-greater-than-less-than/e/inequality-from-graph)
-- [Teikna ójöfnur á talnalínuna &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-greater-than-less-than/e/inequalities_on_a_number_line)
+- [Lesa ójöfnur af talnalínunni](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-greater-than-less-than/e/inequality-from-graph)
+- [Teikna ójöfnur á talnalínuna](https://www.khanacademy.org/math/pre-algebra/pre-algebra-equations-expressions/pre-algebra-greater-than-less-than/e/inequalities_on_a_number_line)
 - [Ójöfnur sem má leysa í einu skrefi](https://www.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-one-step-inequalities/e/one_step_inequalities)
-- [Ójöfnur í tveimur skrefum &#x1F538;](https://www.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-two-step-inequalities/e/solving-2-step-inequalities)
-- [Ójöfnur í fleiri skrefum &#x1F538;](https://www.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-multi-step-inequalities/e/linear_inequalities)
+- [Ójöfnur í tveimur skrefum](https://www.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-two-step-inequalities/e/solving-2-step-inequalities)
+- [Ójöfnur í fleiri skrefum](https://www.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-multi-step-inequalities/e/linear_inequalities)
+
+### Prósentur upprifjun
+
+-[Prósentur á mörgum formum &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-problems/e/equivalent-representations-of-percent-problems)
+-[Breyta úr tölum yfir á prósentur &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-problems/e/finding_percents)
 
 ## Maí 2020
 
 ### Jöfnuhneppi
 
-- [Prófa lausnir við jöfnuhneppum &#x1F538;](https://www.khanacademy.org/math/algebra-home/alg-system-of-equations/alg-introduction-to-systems-of-linear-equations/e/verifying-solutions-to-systems-of-equations)
-- [Einföld jöfnuhneppi &#x1F538;](https://www.khanacademy.org/math/algebra-home/alg-system-of-equations/alg-equivalent-systems-of-equations/e/systems_of_equations_with_elimination_0.5)
+- [Prófa lausnir við jöfnuhneppum](https://www.khanacademy.org/math/algebra-home/alg-system-of-equations/alg-introduction-to-systems-of-linear-equations/e/verifying-solutions-to-systems-of-equations)
+- [Einföld jöfnuhneppi](https://www.khanacademy.org/math/algebra-home/alg-system-of-equations/alg-equivalent-systems-of-equations/e/systems_of_equations_with_elimination_0.5)
 
 
 
