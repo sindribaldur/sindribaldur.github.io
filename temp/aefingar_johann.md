@@ -72,18 +72,25 @@ title: Khan Academy æfingar
 - [Ójöfnur í fleiri skrefum](https://www.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-multi-step-inequalities/e/linear_inequalities)
 
 ### Prósentur upprifjun
--[Prósentur á mörgum formum &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-problems/e/equivalent-representations-of-percent-problems)
--[Breyta úr tölum yfir á prósentur &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-problems/e/finding_percents)
+- [Prósentur á mörgum formum &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-problems/e/equivalent-representations-of-percent-problems)
+- [Breyta úr tölum yfir á prósentur &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-problems/e/finding_percents)
+
 
 ## Maí 2020
 
 ### Jöfnuhneppi
-
 - [Prófa lausnir við jöfnuhneppum](https://www.khanacademy.org/math/algebra-home/alg-system-of-equations/alg-introduction-to-systems-of-linear-equations/e/verifying-solutions-to-systems-of-equations)
 - [Einföld jöfnuhneppi](https://www.khanacademy.org/math/algebra-home/alg-system-of-equations/alg-equivalent-systems-of-equations/e/systems_of_equations_with_elimination_0.5)
 
+### Þáttun upprifjun
+- [A &#x1F538;](https://www.khanacademy.org/math/algebra-home/alg-polynomials/alg-factoring-quadratics-1/e/factor-quadratics-sp)
+- [B &#x1F538;](https://www.khanacademy.org/math/algebra-home/alg-polynomials/alg-factoring-quadratics-1/e/factoring_polynomials_1)
+- [C &#x1F538;](https://www.khanacademy.org/math/algebra-home/alg-polynomials/alg-factoring-quadratics-perfect-squares/e/intro-to-factoring-perfect-squares)
 
+### Annarsstigs jöfnur
 
+- [Hvenær er fall núll &#x1F538;](https://www.khanacademy.org/math/algebra/quadratic-functions-equations/factored-form-quadratics/e/zero-product-property)
+- [Annarsstigsjöfnur og hnitakerfi &#x1F538;](https://www.khanacademy.org/math/algebra/quadratic-functions-equations/factored-form-quadratics/e/graph-quadratic-functions-in-factored-form)
 
 
 
