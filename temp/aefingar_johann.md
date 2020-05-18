@@ -72,8 +72,8 @@ title: Khan Academy æfingar
 - [Ójöfnur í fleiri skrefum](https://www.khanacademy.org/math/algebra-basics/alg-basics-linear-equations-and-inequalities/alg-basics-multi-step-inequalities/e/linear_inequalities)
 
 ### Prósentur upprifjun
-- [Prósentur á mörgum formum &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-problems/e/equivalent-representations-of-percent-problems)
-- [Breyta úr tölum yfir á prósentur &#x1F538;](https://www.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-problems/e/finding_percents)
+- [Prósentur á mörgum formum](https://www.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-problems/e/equivalent-representations-of-percent-problems)
+- [Breyta úr tölum yfir á prósentur](https://www.khanacademy.org/math/pre-algebra/pre-algebra-ratios-rates/pre-algebra-percent-problems/e/finding_percents)
 
 
 ## Maí 2020
@@ -81,16 +81,19 @@ title: Khan Academy æfingar
 ### Jöfnuhneppi
 - [Prófa lausnir við jöfnuhneppum](https://www.khanacademy.org/math/algebra-home/alg-system-of-equations/alg-introduction-to-systems-of-linear-equations/e/verifying-solutions-to-systems-of-equations)
 - [Einföld jöfnuhneppi](https://www.khanacademy.org/math/algebra-home/alg-system-of-equations/alg-equivalent-systems-of-equations/e/systems_of_equations_with_elimination_0.5)
+- [Jöfnuhneppi bera saman fyrstu skref](https://www.khanacademy.org/math/algebra-home/alg-system-of-equations/alg-equivalent-systems-of-equations/e/understanding-solution-methods-to-systems-of-equations)
 
 ### Þáttun upprifjun
-- [A &#x1F538;](https://www.khanacademy.org/math/algebra-home/alg-polynomials/alg-factoring-quadratics-1/e/factor-quadratics-sp)
-- [B &#x1F538;](https://www.khanacademy.org/math/algebra-home/alg-polynomials/alg-factoring-quadratics-1/e/factoring_polynomials_1)
-- [C &#x1F538;](https://www.khanacademy.org/math/algebra-home/alg-polynomials/alg-factoring-quadratics-perfect-squares/e/intro-to-factoring-perfect-squares)
+- [A](https://www.khanacademy.org/math/algebra-home/alg-polynomials/alg-factoring-quadratics-1/e/factor-quadratics-sp)
+- [B](https://www.khanacademy.org/math/algebra-home/alg-polynomials/alg-factoring-quadratics-1/e/factoring_polynomials_1)
+- [C](https://www.khanacademy.org/math/algebra-home/alg-polynomials/alg-factoring-quadratics-perfect-squares/e/intro-to-factoring-perfect-squares)
 
 ### Annarsstigs jöfnur
 
-- [Hvenær er fall núll &#x1F538;](https://www.khanacademy.org/math/algebra/quadratic-functions-equations/factored-form-quadratics/e/zero-product-property)
-- [Annarsstigsjöfnur og hnitakerfi &#x1F538;](https://www.khanacademy.org/math/algebra/quadratic-functions-equations/factored-form-quadratics/e/graph-quadratic-functions-in-factored-form)
+- [Hvenær er fall núll](https://www.khanacademy.org/math/algebra/quadratic-functions-equations/factored-form-quadratics/e/zero-product-property)
+- [Annarsstigsjöfnur sem hægt er að leysa með kvaðratrót &#x1F538;](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:untitled-1082/e/solve-quadratics-by-taking-square-roots-intro)
+- [Annarsstigsjöfnur sem hægt er að leysa með kvaðratrót 2 &#x1F538;](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:untitled-1082/e/solve-quadratics-by-taking-square-roots-intro)(https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:untitled-1082/e/solving_quadratics_by_taking_the_square_root)
+- [Annarsstigsjöfnur og hnitakerfi](https://www.khanacademy.org/math/algebra/quadratic-functions-equations/factored-form-quadratics/e/graph-quadratic-functions-in-factored-form)
 
 
 
