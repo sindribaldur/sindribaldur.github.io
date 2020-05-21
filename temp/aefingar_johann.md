@@ -92,7 +92,7 @@ title: Khan Academy æfingar
 
 - [Hvenær er fall núll](https://www.khanacademy.org/math/algebra/quadratic-functions-equations/factored-form-quadratics/e/zero-product-property)
 - [Annarsstigsjöfnur sem hægt er að leysa með kvaðratrót &#x1F538;](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:untitled-1082/e/solve-quadratics-by-taking-square-roots-intro)
-- [Annarsstigsjöfnur sem hægt er að leysa með kvaðratrót 2 &#x1F538;](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:untitled-1082/e/solve-quadratics-by-taking-square-roots-intro)(https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:untitled-1082/e/solving_quadratics_by_taking_the_square_root)
+- [Annarsstigsjöfnur sem hægt er að leysa með kvaðratrót 2 &#x1F538;](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratic-functions-equations/x2f8bb11595b61c86:untitled-1082/e/solving_quadratics_by_taking_the_square_root)
 - [Annarsstigsjöfnur og hnitakerfi](https://www.khanacademy.org/math/algebra/quadratic-functions-equations/factored-form-quadratics/e/graph-quadratic-functions-in-factored-form)
 
 
